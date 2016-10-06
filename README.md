@@ -9,9 +9,10 @@ As the day when people walks on Mars getting closer and closer, the need for aut
 
 In order for automated vehicles to be able to perform their tasks a multitude of sensors and algorithms may be needed like;
 * Collision avoidance (radar, lidar, sonar ...)
-* Threat/risk detection (e.g. prediction of course changes of other vehicles and people)
+* Threat/risk detection (detection of other vehicles, people and fixed objects that might become a problem in the future)
 * Risk assesment (determine probabilty of accident even if no threat/risk has been detected)
 * Mapping of surrounding (find obstacles and use fixed ones as reference for navigation)
+* Positioning (GPS, inertial navigation (accelerometer, gyro, altimeter, compass ...), beacons ...)
 * Route optimization (e.g. to find shortest path with least risk and that avoids most obstacles)
 
 ### Automated homes
